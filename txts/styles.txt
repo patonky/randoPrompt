@@ -1,0 +1,504 @@
+Abstract
+Acid Pixie
+Acidwave
+Adventurecore
+Afrofuturism
+After Hours
+Agropeople
+Alien
+Alternative
+Americana
+Androgynous
+Anemoiacore
+Angelcore
+Anglo Gothic
+Angura Kei
+Animecore
+Anti-Fashion
+Applecore
+Art Academia
+Art Deco
+Art Hoe
+Art Nouveau
+Artistiekelingen
+Athlete
+Atompunk
+Autumn
+Avant-garde
+Babycore
+Babygirl
+Barbiecore
+Bardcore
+Baddie
+Ballet Academia
+Baroque
+Bastardcore
+Beatnik
+Bibliopunk
+Bills
+Bimbo Casual
+Biopunk
+Bizarro Fiction
+Blob Web
+Bloomcore
+Bodikon
+Bogan
+Bohemian
+Bosozoku
+Boujee
+Breakcore
+Brocore
+Bronzepunk
+Britpop
+Bubble Goth
+Bubblegum Bitch
+Bubblegum Witch
+Bunnycore
+Butterfly
+Cabincore
+Cagole
+Camp
+Campcore
+Candycore
+Caninecore
+Carcore
+Cargopunk
+Cartelcore
+Cartooncore
+Casino
+Changelingcore
+Chav
+Cherry Emoji Twitter
+Chiaroscuro
+Chic Modernist
+Cholo
+Christcore
+Christian Girl Autumn
+Christmas
+Chaotic Academia
+City Pop
+Classic Academia
+Classic Lolita
+Classicism
+Cleancore
+Clockpunk
+Cloudcore
+Clowncore
+Club
+Club Kids
+Coffee House/Cafe
+Comfy/Cozy
+Comiccore
+Constructivism
+Corporate
+Cosplay
+Cottagecore
+Cottagegore
+Country
+Cowpunk
+C-Pop
+Crackhead
+Craftcore
+Cripplepunk
+Crowcore
+Crustpunk
+Cryptid Academia
+Cryptidcore
+Crystalcore
+Cubism
+Cuddle Party
+Cultcore
+Cult Party Kei
+Cyan
+Cyberdelic
+Cyberghetto
+Cybergoth
+Cybergrunge
+Cyberpop
+Cyberprep
+Cyberpunk
+Dadaism
+Dark Paradise
+Dark Academia
+Dark Fairycore
+Dark Naturalism
+Dark Nautical
+Darkest Academia
+Dazecore
+Decora
+Decopunk
+Desertwave
+De Stijl
+Devilcore
+Diner
+Dinocore
+Dieselpunk
+Dollcore
+Dolly Kei
+Dracopunk
+Dragoncore
+Dreamy
+Drugcore
+Dual Kawaii
+Dungeon Synth
+Dullcore
+Dziwnecore
+E-Boy
+E-Girl
+Electro Swing
+Emancicore
+Emo
+Equestrian
+Erokawa
+Ethereal
+Expressionism
+Fairy Academia
+Fairycore
+Fairy Kei
+Fairy Tale
+Fanfare
+Fantasy
+Fashwave
+Fauvism
+Fawncore
+Femme Fatale
+Flapper
+Fluxus Movement
+Foodie
+Forestpunk
+Fractal art
+Freak
+Furry
+Functionalism
+Futago
+Futurism
+Gadgetpunk
+Game Night
+Gamine
+Geek
+Ghostcore
+Girl-Next-Door
+Glam Girl
+Glam Rock
+Glitch
+Gloomcore
+Glowwave
+Goblincore
+Golden Age of Detective Fiction
+Golden Hour
+Gopnik
+Gorecore
+Gorean
+Goth
+Gothic
+Gothcore
+Grandparentcore
+Grindhouse
+Grunge
+Gull Girl
+Gurokawa
+Gyaru
+Hallyu
+Hauntology
+Halloween
+Happycore
+Hatecore
+Health Goth
+Heatwave
+Hellenic
+Hermaphroditus
+High School Dream
+Hiraeth core
+Hikecore
+Hip-Hop
+Hippie
+Hipster
+Historical Americana
+Holosexual
+Honeycore
+Horror
+Horror Academia
+Hot Topic
+Hustlewave
+Hydrogen
+Hyperpop
+Icepunk
+Impressionism
+Indie
+Italo Disco
+Italian Mafia
+Jamcore
+Jersey Shore
+Juggalo
+Junglecore
+Junkpunk
+Karasu Zoku
+Kawaii
+Kidcore
+Kid Science
+Kinderwhore
+Kingcore
+Knightcore
+Kogal
+Kuro Kawaii
+Kuromicore
+Laborwave
+Lagenlook
+Larme Kei
+La Sape
+Light Academia
+Lightningwave
+Lil Girl
+Lit Kid
+Liminal Space
+Lo-Fi
+Lolita
+Lounge
+Lovecore
+Luminism
+Lunarpunk
+Macaute
+Magenta
+Malandragem
+Mallgoth
+Mall Ninja
+Mangas
+Maternity
+McBling
+Medicalcore
+Metal
+Metalcore
+Metrosexual
+Miami Metro
+Midwest Emo
+Midwest Gothic
+Military
+Milleniwave
+Milk
+Minimalism
+Mod
+Modernism
+Mori Kei
+Mote Kei
+Mosscore
+Mushroomcore
+Musical Academia
+Mythpunk
+Nanopunk
+Natural Philosophy
+Naturecore
+Nautical
+Nazi Chic
+Neko
+Neomilitarism
+Nerd
+Nerdcore
+New Age
+New Romantic
+New Wave
+Nintencore
+Normcore
+Northerness
+Nostalgiacore
+Nowpunk
+Nozems
+Nuclear
+Nu-Goth
+Nymphet
+Ocean Grunge
+Old Hollywood
+Old Memecore
+Old Web
+Onii Kei
+Oshare Kei
+Otherkin
+Pachuco
+Pale
+Paleocore
+Paninaro
+Party Animal
+Party Kei
+Pastel
+Pastel Academia
+Pastel Goth
+Pastel Punk
+Peach
+Pearly
+Petcore
+Photorealism
+Pigeoncore
+Pink
+Pin-up
+Pirate
+Pixel Cutie
+Pixiecore
+Plaguecore
+Plant Mom
+Playboy
+Pointillism
+Pokemón
+Pop
+Pop Art
+Pop Kei
+Post-Impressionism
+Postmodernism
+Post-Apocalyptic
+Post-rock
+Powwow Step
+Prairiecore
+Preppy
+Princecore
+Princesscore
+Progressive Academia
+Psychedelica
+Punk
+Purism
+Queencore
+Queercore
+R&B
+Racaille
+Rainbowcore
+Rainy Day
+Rangercore
+Ratcore
+Ravencore
+Raver
+Real Life Super Hero
+Realism
+Reefwave
+Regional Gothic
+Retro-Futurism
+Rivethead
+Robotics Kid
+Rockabilly
+Rococo
+Rococopunk
+Rollerwave
+Roma
+Romantic Goth
+Romanticism
+Romantic Academia
+Romantic Italian
+Royalcore
+Rusticcore
+Sadpeople
+Salon Kei
+Sandalpunk
+Sanriocore
+Science Academia
+Scrapbook
+Scrapper
+Scene
+Scoutcore
+Scuttlers
+Seapunk
+Shanzhai
+Shā mǎ tè
+Shabby Chic
+Sharpies
+Shironuri
+Sizz
+Skinheads
+Slimepunk
+Sloanies
+Slutcore
+Snailcore
+Soft Apocalypse
+Softie
+Soft Macabre
+Soggy
+Solarpunk
+Soulboys
+Southern Gothic
+Sovietwave
+Spacecore
+Sparklecore
+Spiritcore
+Spring
+Steampunk
+Steelpunk
+Stilyagi
+Stimwave
+Stonepunk
+Stoner
+Stripcore
+Studyblr
+Studyplace
+Styla
+Suburban Gothic
+Sukeban
+Summer
+Suprematism
+Surf Crush
+Surrealism
+Surreal Memer
+Swenkas
+Swordpunk
+Synthwave
+Takenokozoku
+Taqwacore
+Techwear
+Teddies
+Technical Scene
+Teethcore
+Theatre Academia
+Theatre Kids
+Thriftcore
+Tomboy
+Trad Goth
+Traditional Polish
+Trailer Trash
+Trashcore
+Traumacore
+Trendercore
+Trillwave
+Tropical
+Tupinipunk
+Tweencore
+Ukiyo-e
+Ulzzang
+Urbancore
+Unicorncore
+Vacation Dadcore
+Vampire
+Vaporwave
+Vibrant Academia
+Victorian
+Victorian Goth
+Vintage
+Vintage Academia
+Vintage Parisian
+Virgo's Tears
+Visual Kei
+VSCO
+Voidpunk
+Vorticism
+Vulture Culture
+Wabi-Sabi
+Waldorf
+Wanderlust
+Wandervogel
+Warmcore
+Web Creep
+Weirdcore
+Western
+Winter
+Witchy Academia
+Witch House
+Witchcore
+Wizardcore
+Wonderland
+Woodland Goth
+Wormcore
+Writer Academia
+Y2K
+Yakuza
+YamiKawaii
+Yankeecore
+Yanki
+YumeKawaii
+Yanderecore
+Zazou
+Zef
+Zentai
+Zombiecore
