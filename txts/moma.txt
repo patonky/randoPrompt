@@ -1,0 +1,43 @@
+/// <summary>	Average daily air temperature at two meters above ground level. Units dependent on the unitcode setting.	 </summary>
+/// <summary>	Maximum daily air temperature at two meters above ground level. Units dependent on the unitcode setting.	 </summary>
+/// <summary>	Minimum daily air temperature at two meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Average cloud cover data. Cloud cover refers to the percentage of the sky that is covered by clouds.	 </summary>
+/// <summary>	Maximum cloud cover data.	 </summary>
+/// <summary>	Minimum cloud cover data.	 </summary>
+/// <summary>	Descriptor data for average daily cloud cover. 	 </summary>
+/// <summary>	Descriptor data for maximum daily cloud cover. 	 </summary>
+/// <summary>	Descriptor data for minimum daily cloud cover. 	 </summary>
+/// <summary>	Average dew point temperature data. Dew point temperature is defined as the temperature to which the air must be cooled for saturation and condensation to occur.	 </summary>
+/// <summary>	Maximum dew point temperature data.	 </summary>
+/// <summary>	Minimum dew point temperature data.	 </summary>
+/// <summary>	24-hour ice accumulation data (e.g., sleet or ice pellets).	 </summary>
+/// <summary>	24-hour liquid accumulation data (e.g., rain, drizzle, freezing rain, or freezing drizzle).	 </summary>
+/// <summary>	Average downwelling longwave radiation flux data. Longwave radiation is the energy emitted from non-solar radiation sources.	 </summary>
+/// <summary>	Maximum downwelling longwave radiation flux data.	 </summary>
+/// <summary>	Minimum downwelling longwave radiation flux data.	 </summary>
+/// <summary>	Reference evapotranspiration, calculated using the FAO-56 grass formulation. Reference evapotranspiration is the total amount of water that would transpire and evaporate from a hypothetical reference crop over the period, assuming ample water is available.	 </summary>
+/// <summary>	Best estimate of liquid-equivalent precipitation. Matches the precip_acc_period_adjusted value if available, or the precip_acc_period_raw value if the adjusted value is not available.	 </summary>
+/// <summary>	Liquid-equivalent precipitation accumulation, fundamentally derived from the raw precipitation product, but then adjusted to more closely match available ground truth observations. Due to the delays in receiving these ground truth data, accumulation adjustment typically lags real-time by a day or more.	 </summary>
+/// <summary>	Liquid-equivalent precipitation accumulation, estimated from multiple sources of data that may include any or all of the following: weather radar, satellite, computer model, and surface observation data.	 </summary>
+/// <summary>	Average relative humidity data. Relative humidity is the ratio of the actual amount of water vapor in the air to the maximum amount that can physically exist at a given air temperature.	 </summary>
+/// <summary>	Maximum relative humidity data.	 </summary>
+/// <summary>	Minimum relative humidity data.	 </summary>
+/// <summary>	Average downwelling shortwave radiation flux data. Shortwave radiation is the high-energy solar radiation that reaches Earth’s surface.	 </summary>
+/// <summary>	Maximum downwelling shortwave radiation flux data.	 </summary>
+/// <summary>	Minimum downwelling shortwave radiation flux data.	 </summary>
+/// <summary>	24-hour snow accumulation data, represented as physical snow depth (not liquid equivalent).	 </summary>
+/// <summary>	Number of hours that the amount of downwelling shortwave radiation flux exceeds 120 W/m^2, which is dictated by the time of day and local weather conditions. Note that hours are not necessarily consecutive.	 </summary>
+/// <summary>	Average visibility data. Visibility is a measure of the lateral distance one can see before one’s line of sight is obstructed due to weather conditions.	 </summary>
+/// <summary>	Maximum visibility data.	 </summary>
+/// <summary>	Minimum visibility data.	 </summary>
+/// <summary>	Maximum wind gust at ten meters above ground level. Returns "n/a" if either the maximum wind speed is less than five mph, or the difference between the maximum wind gust and maximum wind speed is less than five mph.	 </summary>
+/// <summary>	Average daily wind speed at two meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Maximum daily wind speed at two meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Minimum daily wind speed at two meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Average daily wind speed at ten meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Maximum daily wind speed at ten meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+/// <summary>	Minimum daily wind speed at ten meters above ground level. Units dependent on the unitcode setting. 	 </summary>
+
+
+https://subredditstats.com/subreddit-user-overlaps/lockdownskepticism
+https://subredditstats.com/subreddit-user-overlaps/maskskepticism
